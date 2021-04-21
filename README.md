@@ -5,7 +5,22 @@
 - I like playing games, make a crochet and I love music 🎮🧶 🎶🎤🎸
 - 📌I lived in Yogyakarta since 2002
 - You can follow me on my instagram account [@patresya_pj](https://instagram.com/patresya_pj?igshid=23vry0qg9y42)✨🙋‍♀
-
+## Tugas Praktikum Py01 
+### Script
+- print("#/===========================================/")
+- print("#/                                           /")
+- print("#/          Program halo.py                  /")
+- print("#/   by patresyajacobus@mail.ugm.ac.id       /")
+- print("#/                                           /")
+- print ("#/===========================================/")
+### Hasil
+- #/===========================================/
+- #/                                           /
+- #/          Program halo.py                  /
+- #/   by patresyajacobus@mail.ugm.ac.id       /
+- #/                                           /
+- #/===========================================/
+POLOW IG TIANA CEPET [klikdisini yaaa](www.instagram.com/setianawanita)
 <!--
 **patresyapj/patresyapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
