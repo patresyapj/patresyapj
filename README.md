@@ -1,10 +1,10 @@
-## Hi there I'm Tresya✨
-👩‍🏫I'm a college student of Geophysics 
-#I'm currently learning how to use one of programming language which called Phyton.
-You can follow me on my instagram account [@patresya_pj](https:www/instagram.com/patresya_pj)
-🙋‍♀🙆‍♀💁‍♀🏸🎮🎶🎤🎸
--->💐👋👩‍💻
-📌🧶
+# Hi there I'm Tresya✨
+-👩‍🏫 I'm a college student of Geophysics 
+-👩‍💻 I'm currently learning how to use one of programming language which called Phyton.
+- 🎮🎶🎤🎸🧶 I like playing games, make a crochet and I love music 
+- 📌I lived in Yogyakarta since 2002
+- You can follow me on my instagram account [@patresya_pj](https:www/instagram.com/patresya_pj)
+-->
 <!--
 **patresyapj/patresyapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...🙋‍♀🙆‍♀💁‍♀🏸🎮🎶🎤🎸📌🧶💐👋
