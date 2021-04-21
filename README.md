@@ -3,7 +3,7 @@
 - 👩‍💻 I'm currently learning how to use one of programming language which called Phyton.
 - I like playing games, make a crochet and I love music 🎮🧶 🎶🎤🎸
 - 📌I lived in Yogyakarta since 2002
-- You can follow me on my instagram account [@patresya_pj](https:www/instagram.com/patresya_pj)🙋‍♀
+- You can follow me on my instagram account [@patresya_pj](www.instagram.com/patresya_pj)🙋‍♀
 
 <!--
 **patresyapj/patresyapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
