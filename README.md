@@ -20,7 +20,6 @@
 - #/   by patresyajacobus@mail.ugm.ac.id       /
 - #/                                           /
 - #/===========================================/
-POLOW IG TIANA CEPET [klikdisini yaaa](www.instagram.com/setianawanita)
 <!--
 **patresyapj/patresyapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
